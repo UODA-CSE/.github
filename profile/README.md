@@ -8,6 +8,12 @@
   </a>
 </p>
 
+### About University of Development Alternative (UODA)
+
+The University of Development Alternative (UODA) is a private university in Bangladesh. It was established in 2007. The university is located in the city of Dhaka, the capital of Dhaka Division. The university is accredited by the University Grants Commission of Bangladesh (UGC). The University of Development Alternative started its journey with the noble mission of creating a new generation of skilled youths, self-reliant, forward looking, vibrant with indomitable energy and self-confidence.
+
+### Course List
+
 | #        | Course Title                                  | Course Code    | Credit |
 |----------|-----------------------------------------------|----------------|--------|
 | ***4th YEAR*** |                                               |                |        |
@@ -21,7 +27,6 @@
 | 78       | Digital Image Processing                      | CSE422         | 2      |
 | 77       | Digital Image Processing Lab                  | CSE422L        | 1      |
 | 76       | IT Organization                               | CSE 404        | 3      |
-|          |                                               |                |        |
 |          | SEMESTER : 10                                 |                |        |
 | 75       | Neural Networks                               | CSE402         | 2      |
 | 74       | Neural Networks Lab                           | CSE402L        | 1      |
@@ -29,7 +34,7 @@
 | 72       | Computer Graphics Lab                         | CSE403L        | 1      |
 | 71       | VLSI Design &amp; Testing                     | CSE406         | 3      |
 | 70       | Unix Programming                              | CSE407         | 1      |
-| 69       | Unix Programming Lab                          | CSE407L        | 2      |
+| 69       | [Unix Programming Lab](https://github.com/UODA-CSE/cse407l_unix-lab)                          | CSE407L        | 2      |
 | 68       | Cryptography and Network Security             | CSE430         | 3      |
 | ***3rd YEAR*** |                                               |                |        |
 |          | SEMESTER : 9                                  |                |        |
@@ -40,7 +45,6 @@
 | 63       | Artificial Intelligence Lab                   | CSE302L        | 1      |
 | 62       | E-Commerce &amp; Web Design                   | CSE312         | 2      |
 | 61       | E-Commerce &amp; Web Design Lab               | CSE312L        | 1      |
-|          |                                               |                |        |
 |          | SEMESTER : 8                                  |                |        |
 | 60       | Automata Theory                               | CSE301         | 2      |
 | 59       | Internet Technology                           | CSE303         | 2      |
@@ -50,7 +54,6 @@
 | 55       | Peripheral &amp; Interfacing                  | CSE311         | 2      |
 | 54       | Peripheral &amp; Interfacing Lab              | CSE311L        | 1      |
 | 53       | Management Information System                 | MIS301         | 3      |
-|          |                                               |                |        |
 |          | SEMESTER : 7                                  |                |        |
 | 52       | Computer Networks                             | CSE304         | 3      |
 | 51       | Computer Networks Lab                         | CSE304L        | 1      |
@@ -60,7 +63,6 @@
 | 47       | Microprocessor &amp; Assembly Language Lab    | CSE309L        | 1      |
 | 46       | Psychology                                    | PSY301         | 2      |
 | 45       | Software Engineering                          | CSE310         | 3      |
-|          |                                               |                |        |
 | ***2nd YEAR*** |                                               |                |        |
 |          | SEMESTER : 6                                  |                |        |
 | 44       | Computer Organization &amp; Architecture      | CSE201         | 3      |
@@ -71,7 +73,6 @@
 | 39       | Digital Electronics &amp; Logic Design Lab    | CSE204L        | 1      |
 | 38       | Statistics                                    | STAT201        | 3      |
 | 37       | System Analysis &amp; Design                  | CSE211         | 3      |
-|          |                                               |                |        |
 |          | SEMESTER : 5                                  |                |        |
 | 36       | Numerical Analysis                            | CSE213         | 2      |
 | 35       | Numerical Analysis Lab                        | CSE213L        | 1      |
@@ -82,7 +83,6 @@
 | 30       | Advance .Net based JAVA with J2EE             | CSE209         | 2      |
 | 29       | Advance .Net based JAVA with J2EE Lab         | CSE209L        | 1      |
 | 28       | Communication Engineering                     | CSE208         | 2      |
-|          |                                               |                |        |
 |          | SEMESTER : 4                                  |                |        |
 | 27       | Discrete Mathematics                          | CSE 212        | 3      |
 | 26       | Electrical Circuits/EEE-121                   | CSE112         | 2      |
@@ -91,7 +91,6 @@
 | 23       | Visual Programming using JAVA Lab             | CSE206L        | 1      |
 | 22       | Linear Algebra and Geometry                   | MATH105        | 2      |
 | 21       | Economics                                     | ECO201         | 2      |
-|          |                                               |                |        |
 | ***1st YEAR*** |                                               |                |        |
 |          | SEMESTER : 3                                  |                |        |
 | 20       | Integral Calculus                             | MATH104        | 2      |
@@ -102,7 +101,6 @@
 | 15       | Physics II                                    | PHY102         | 2      |
 | 14       | Data Structures &amp; Algorithms              | CSE108         | 2      |
 | 13       | Data Structures &amp; Algorithms Lab          | CSE108L        | 1      |
-|          |                                               |                |        |
 |          | SEMESTER : 2                                  |                |        |
 | 12       | Differential Calculus                         | MATH103        | 2      |
 | 11       | Physics I                                     | PHY101         | 2      |
@@ -110,7 +108,6 @@
 | 8        | Programming in C Lab                          | CSE115L        | 2      |
 | 7        | Computer Fundamental                          | CSE101         | 2      |
 | 6        | Accounting                                    | ACC101         | 2      |
-|          |                                               |                |        |
 |          | SEMESTER : 1                                  |                |        |
 | 5        | English Foundation- I                         | ENG – 101      | 2      |
 | 4        | English Foundation- II                        | ENG – 102      | 2      |
