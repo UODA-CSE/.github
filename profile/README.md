@@ -7,11 +7,6 @@
   </a>
 </p>
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
 
 ### About University of Development Alternative (UODA)
 
