@@ -6,6 +6,7 @@
     <h1 align="center">UODA CSE GitHub Organization</h1>
   </a>
 </p>
+
 <style>
     table {
         width: 100%;
