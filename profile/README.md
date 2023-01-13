@@ -1,16 +1,22 @@
 <p align="center">
 <!-- image -->
   <a href="[UODA-CSE](https://github.com/UODA-CSE)">
-  <img src="https://uoda.edu.bd/public/images/uploads/pic_1.jpg">
-    <img src="https://avatars.githubusercontent.com/u/114091226?s=1000" height="128">
+  <img src="./github_cover.png" alt="UODA CSE GitHub Organization" width="100%">
     <h3 align="center">Welcome to</h3>
     <h1 align="center">UODA CSE GitHub Organization</h1>
   </a>
 </p>
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 
 ### About University of Development Alternative (UODA)
 
+<p style='text-align: justify;'>
 The University of Development Alternative (UODA) is a private university in Bangladesh. It was established in 2007. The university is located in the city of Dhaka, the capital of Dhaka Division. The university is accredited by the University Grants Commission of Bangladesh (UGC). The University of Development Alternative started its journey with the noble mission of creating a new generation of skilled youths, self-reliant, forward looking, vibrant with indomitable energy and self-confidence.
+</p>
 
 ### Course List
 
