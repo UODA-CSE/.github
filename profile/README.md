@@ -1,9 +1,13 @@
 <p align="center">
 <!-- image -->
   <a href="[UODA-CSE](https://github.com/UODA-CSE)">
-  <img src="https://raw.githubusercontent.com/UODA-CSE/.github/main/profile/github_cover_cse.png" alt="UODA CSE GitHub Organization" width="100%">
-    <h3 align="center">Welcome to</h3>
-    <h1 align="center">UODA CSE GitHub Organization</h1>
+  <img src="https://raw.githubusercontent.com/UODA-CSE/.github/main/profile/github_cover_cse.png" alt="UODA CSE GitHub Organization" width="100%"/>
+  <p align="center"
+  style="margin-top: -40px;"> Welcome to the UODA CSE GitHub Organization </p>
+    <h1 align="center">
+    Engineer's Repo
+    </h1>
+    <h4 align="center">A collection of all the course materials of CSE Department, UODA</h4>
   </a>
 </p>
 
