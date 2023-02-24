@@ -54,7 +54,7 @@ The University of Development Alternative (UODA) is a private university in Bang
 | 57       | Advanced DBMS                                 | CSE307         | 2      |
 | 56       | Advanced DBMS Lab                             | CSE307L        | 2      |
 | 55       | Peripheral &amp; Interfacing                  | CSE311         | 2      |
-| 54       | Peripheral &amp; Interfacing Lab              | CSE311L        | 1      |
+| 54       | [Peripheral &amp; Interfacing Lab](https://github.com/aamibhoot/uoda-cse-311l)              | CSE311L        | 1      |
 | 53       | Management Information System                 | MIS301         | 3      |
 |          | SEMESTER : 7                                  |                |        |
 | 52       | Computer Networks                             | CSE304         | 3      |
