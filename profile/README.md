@@ -46,7 +46,7 @@ The University of Development Alternative (UODA) is a private university in Bang
 | 64       | Artificial Intelligence                       | CSE302         | 2      |
 | 63       | Artificial Intelligence Lab                   | CSE302L        | 1      |
 | 62       | E-Commerce &amp; Web Design                   | CSE312         | 2      |
-| 61       | E-Commerce &amp; Web Design Lab               | CSE312L        | 1      |
+| 61       | [E-Commerce &amp; Web Design Lab](https://github.com/UODA-CSE/cse312l_e-commerce-site-from-scratch)               | CSE312L        | 1      |
 |          | SEMESTER : 8                                  |                |        |
 | 60       | Automata Theory                               | CSE301         | 2      |
 | 59       | Internet Technology                           | CSE303         | 2      |
