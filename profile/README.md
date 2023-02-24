@@ -1,7 +1,7 @@
 <p align="center">
 <!-- image -->
   <a href="[UODA-CSE](https://github.com/UODA-CSE)">
-  <img src="https://raw.githubusercontent.com/UODA-CSE/.github/main/profile/github_cover.png" alt="UODA CSE GitHub Organization" width="100%">
+  <img src="https://raw.githubusercontent.com/UODA-CSE/.github/main/profile/github_cover_cse.png" alt="UODA CSE GitHub Organization" width="100%">
     <h3 align="center">Welcome to</h3>
     <h1 align="center">UODA CSE GitHub Organization</h1>
   </a>
